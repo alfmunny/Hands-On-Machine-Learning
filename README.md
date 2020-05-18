@@ -43,9 +43,20 @@ Week 3: Chapter 5. Support Vector Machine
 
 Week 4: Chapter 6. Decision Tree
 
+- [ ] Training and Visualizing
+- [ ] Regularization Hyperparameters
+- [ ] Exercise
+
 Week 5: Chapter 7. Ensemble Learning and Random Forest
 
+- [ ] Random Forest
+- [ ] Boosting
+- [ ] Exercise
+
 Week 6: Chapter 8. Dimensionality Reduction
+
+- [ ] PCA
+- [ ] Kernel PCA
 
 ## Part 2: Neural Networks and Deep Learning
 
@@ -58,10 +69,15 @@ Online Content:
 3. [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/)
 
 Week 7: Chapter 9. and Chapter 10.
+
 Week 8: Chapter 11. and Chapter 12
+
 Week 9: Chapter 13
+
 Week 10: Chapter 14
+
 Week 11: Chapter 15
+
 Week 12: Chapter 16
 
 Finish!!
