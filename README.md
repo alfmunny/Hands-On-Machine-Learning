@@ -14,6 +14,16 @@ Additional Resources:
 1. [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 2. [Google Machine Learning Crash Course ](https://developers.google.cn/machine-learning/crash-course/ml-intro)
 
+## Preparation
+
+1. Setup [Anaconda](https://www.anaconda.com/products/individual) environment
+2. Recap your linear algebra knowledge. [Linear Algebra Review](https://www.coursera.org/lecture/machine-learning/matrices-and-vectors-38jIT)
+3. If you want a full understanding of linear algebra for machine learning, please watch:
+
+   [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+
+   [MIT 18.065: Matrix methods in Data Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
 ### Learning Progress: 0%
 
 Warm-Up: 
@@ -22,9 +32,11 @@ Warm-Up:
 
 Week 1: Small Projects
 
-- [ ] Chapter 2. End-To-End Machine Learning (Monday - Wednesday)
+We don't want to go to a great of details of the models now, but if you are interested, please refer to the related videos, which may help you understand more.
 
-- [ ] Chapter 3. Classification (Thursday - Saturday)
+- [ ] Chapter 2. End-To-End Machine Learning (Monday - Wednesday) [Video: Linear Regression](https://www.coursera.org/lecture/machine-learning/model-representation-db3jS), [Video: Linear Regression with Multiple Variables](https://www.coursera.org/lecture/machine-learning/multiple-features-6Nj1q)
+
+- [ ] Chapter 3. Classification (Thursday - Saturday) 
 
 Week 2: Chapter 4. Training Models
 
