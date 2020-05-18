@@ -14,7 +14,7 @@ Additional Resources:
 1. [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 2. [Google Machine Learning Crash Course ](https://developers.google.cn/machine-learning/crash-course/ml-intro)
 
-Learning Progress: 0%
+### Learning Progress: 0%
 
 Warm-Up: 
 
@@ -48,6 +48,8 @@ Week 5: Chapter 7. Ensemble Learning and Random Forest
 Week 6: Chapter 8. Dimensionality Reduction
 
 ## Part 2: Neural Networks and Deep Learning
+
+### Learning Progress: 0%
 
 Online Content:
 
