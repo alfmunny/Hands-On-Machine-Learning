@@ -67,6 +67,7 @@ Online Content:
 1. [Stanford CS231n Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 2. [Dive Into Deep Learning](http://zh.d2l.ai/index.html)
 3. [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/)
+4. [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 
 Week 7: Chapter 9. and Chapter 10.
 
