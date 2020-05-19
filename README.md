@@ -24,11 +24,11 @@ Additional Resources:
 
    [MIT 18.065: Matrix methods in Data Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-### Learning Progress: 0%
+### Learning Progress: 1%
 
 Warm-Up: 
 
-- [ ] Chapter 1 The Machine Learning Landscape. No coding needed. [Video](https://www.coursera.org/lecture/machine-learning/welcome-to-machine-learning-zcAuT)
+- [X] Chapter 1 The Machine Learning Landscape. No coding needed. [Video](https://www.coursera.org/lecture/machine-learning/welcome-to-machine-learning-zcAuT)
 
 Week 1: Small Projects
 
