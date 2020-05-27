@@ -24,7 +24,7 @@ Additional Resources:
 
    [MIT 18.065: Matrix methods in Data Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-### Learning Progress: 1%
+### Learning Progress: 2/20
 
 Warm-Up: 
 
@@ -34,7 +34,7 @@ Week 1: Small Projects
 
 We don't want to go to a great of details of the models now, but if you are interested, please refer to the related videos, which may help you understand more.
 
-- [ ] Chapter 2. End-To-End Machine Learning (Monday - Wednesday) [Video: Linear Regression](https://www.coursera.org/lecture/machine-learning/model-representation-db3jS), [Video: Linear Regression with Multiple Variables](https://www.coursera.org/lecture/machine-learning/multiple-features-6Nj1q)
+- [X] Chapter 2. End-To-End Machine Learning (Monday - Wednesday) [Video: Linear Regression](https://www.coursera.org/lecture/machine-learning/model-representation-db3jS), [Video: Linear Regression with Multiple Variables](https://www.coursera.org/lecture/machine-learning/multiple-features-6Nj1q)
 
 - [ ] Chapter 3. Classification (Thursday - Saturday) 
 
