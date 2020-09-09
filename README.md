@@ -24,7 +24,7 @@ Additional Resources:
 
    [MIT 18.065: Matrix methods in Data Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-### Learning Progress: 2/20
+### Learning Progress: 5/20
 
 Warm-Up: 
 
@@ -36,12 +36,12 @@ We don't want to go to a great of details of the models now, but if you are inte
 
 - [X] Chapter 2. End-To-End Machine Learning (Monday - Wednesday) [Video: Linear Regression](https://www.coursera.org/lecture/machine-learning/model-representation-db3jS), [Video: Linear Regression with Multiple Variables](https://www.coursera.org/lecture/machine-learning/multiple-features-6Nj1q)
 
-- [ ] Chapter 3. Classification (Thursday - Saturday) 
+- [X] Chapter 3. Classification (Thursday - Saturday) 
 
 Week 2: Chapter 4. Training Models
 
-- [ ] Linear Regression (Monday)
-- [ ] Gradient Descent (Tuesday)
+- [X] Linear Regression (Monday)
+- [X] Gradient Descent (Tuesday)
 - [ ] Regularized Linear Models (Wednesday)
 - [ ] Logistic Regression (Thursday - Saturday)
 - [ ] Exercise (Saturday)
@@ -62,6 +62,7 @@ Week 4: Chapter 6. Decision Tree
 Week 5: Chapter 7. Ensemble Learning and Random Forest
 
 - [ ] Random Forest
+- [ ] CART
 - [ ] Boosting
 - [ ] Exercise
 
@@ -69,6 +70,11 @@ Week 6: Chapter 8. Dimensionality Reduction
 
 - [ ] PCA
 - [ ] Kernel PCA
+
+Week 7: Chapter 9. Unsupervised Learning Techniques
+
+- [ ] Clustering
+- [ ] Gaussian Mixtures
 
 ## Part 2: Neural Networks and Deep Learning
 
@@ -81,9 +87,7 @@ Online Content:
 3. [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/)
 4. [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 
-Week 7: Chapter 9. and Chapter 10.
-
-Week 8: Chapter 11. and Chapter 12
+Week 8: Chapter 10, chapter 11, Chapter 12
 
 Week 9: Chapter 13
 
@@ -92,6 +96,12 @@ Week 10: Chapter 14
 Week 11: Chapter 15
 
 Week 12: Chapter 16
+
+Week 13: Chapter 17
+
+Week 14: Chapter 18
+
+Week 15: Chapter 19
 
 Finish!!
 
