@@ -24,7 +24,7 @@ Additional Resources:
 
    [MIT 18.065: Matrix methods in Data Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-### Learning Progress: 5/20
+### Learning Progress: 7/20
 
 Warm-Up: 
 
@@ -42,8 +42,8 @@ Week 2: Chapter 4. Training Models
 
 - [X] Linear Regression (Monday)
 - [X] Gradient Descent (Tuesday)
-- [ ] Regularized Linear Models (Wednesday)
-- [ ] Logistic Regression (Thursday - Saturday)
+- [X] Regularized Linear Models (Wednesday)
+- [X] Logistic Regression (Thursday - Saturday)
 - [ ] Exercise (Saturday)
 
 Week 3: Chapter 5. Support Vector Machine
@@ -87,21 +87,59 @@ Online Content:
 3. [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/)
 4. [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 
-Week 8: Chapter 10, chapter 11, Chapter 12
+Week 8: 
 
-Week 9: Chapter 13
+Chapter 10. Introduction to Artificial Neural Networks with Keras
 
-Week 10: Chapter 14
+- [ ] Implementing MLPs with Keras
+- [ ] Fine-Tuning Hyperparameters
+- [ ] Exercises
 
-Week 11: Chapter 15
+Chapter 11. Training Deep Neural Networks
 
-Week 12: Chapter 16
+- [ ] Vanishing/Exploding Gradients Problems
+- [ ] Reusing Pretrained Layers
+- [ ] Faster Optimizers
+- [ ] Regularization
+- [ ] Exercises
 
-Week 13: Chapter 17
+Week 9: 
 
-Week 14: Chapter 18
+Chapter 12. Custom Models and Training with TensorFlow
 
-Week 15: Chapter 19
+- [ ] Using TensorFlow like numpy
+- [ ] Customizing Models and Training Algorithms
+- [ ] Exercise
+
+Chapter 13. Loading and Preprocessing Data with TensorFlow
+
+- [ ] The Data API
+- [ ] TFRecord
+- [ ] Preprocessing
+- [ ] Exercises
+
+Week 10: Chapter 14. Deep Computer Vision Using Convolutional Neural Networks
+
+
+Week 11: Chapter 15. Processing Sequences Using RNNs and CNNs
+
+- [ ] RNN
+- [ ] Long Sequences
+- [ ] Exercises
+
+Week 12: Chapter 16. Natural Language Processing with RNNs and Attention
+
+- [ ] Shakespearean Text using RNN
+- [ ] Sentiment Analysis
+- [ ] Encoder-Decoder
+- [ ] Attention
+- [ ] Exercises
+
+Week 13: Chapter 17. Representation Learning and Generative Learning Using Autoencoders and GANs
+
+Week 14: Chapter 18. Reinforcement Learning
+
+Week 15: Chapter 19. Training and Deploying TensorFlow Models at Scale
 
 Finish!!
 
