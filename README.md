@@ -24,7 +24,7 @@ Additional Resources:
 
    [MIT 18.065: Matrix methods in Data Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-### Learning Progress: 7/20
+### Learning Progress: 20/25
 
 Warm-Up: 
 
@@ -48,33 +48,35 @@ Week 2: Chapter 4. Training Models
 
 Week 3: Chapter 5. Support Vector Machine
 
-- [ ] Linear SVM Classification (Monday)
-- [ ] Nonlinear SVM Classification (Tuesday)
-- [ ] Under the Hood (Wednesday - Saturday)
+- [X] Linear SVM Classification (Monday)
+- [X] Nonlinear SVM Classification (Tuesday)
+- [X] Under the Hood (Wednesday - Saturday)
 - [ ] Exercise (Saturday)
 
 Week 4: Chapter 6. Decision Tree
 
-- [ ] Training and Visualizing
-- [ ] Regularization Hyperparameters
+- [X] Training and Visualizing
+- [X] Regularization Hyperparameters
 - [ ] Exercise
 
 Week 5: Chapter 7. Ensemble Learning and Random Forest
 
-- [ ] Random Forest
-- [ ] CART
-- [ ] Boosting
+- [X] Random Forest
+- [X] CART
+- [X] Boosting, Adaboost
 - [ ] Exercise
 
 Week 6: Chapter 8. Dimensionality Reduction
 
-- [ ] PCA
-- [ ] Kernel PCA
+- [X] PCA
+- [X] Kernel PCA
+- [ ] Exercise
 
 Week 7: Chapter 9. Unsupervised Learning Techniques
 
-- [ ] Clustering
-- [ ] Gaussian Mixtures
+- [X] Clustering
+- [X] Gaussian Mixtures
+- [ ] Exercise
 
 ## Part 2: Neural Networks and Deep Learning
 
