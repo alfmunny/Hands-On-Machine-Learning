@@ -84,25 +84,26 @@ Week 7: Chapter 9. Unsupervised Learning Techniques
 
 Online Content:
 
-1. [Stanford CS231n Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-2. [Dive Into Deep Learning](http://zh.d2l.ai/index.html)
-3. [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/)
-4. [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
+1. Stanford CS231n Convolutional Neural Networks for Visual Recognition [video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [lecture](http://cs231n.stanford.edu/)
+2. [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+3. [Dive Into Deep Learning](http://zh.d2l.ai/index.html)
+4. [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/)
+5. [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 
 Week 8: 
 
 Chapter 10. Introduction to Artificial Neural Networks with Keras
 
-- [ ] Implementing MLPs with Keras
-- [ ] Fine-Tuning Hyperparameters
+- [X] Implementing MLPs with Keras
+- [X] Fine-Tuning Hyperparameters
 - [ ] Exercises
 
 Chapter 11. Training Deep Neural Networks
 
-- [ ] Vanishing/Exploding Gradients Problems
-- [ ] Reusing Pretrained Layers
-- [ ] Faster Optimizers
-- [ ] Regularization
+- [X] Vanishing/Exploding Gradients Problems
+- [X] Reusing Pretrained Layers
+- [X] Faster Optimizers
+- [X] Regularization
 - [ ] Exercises
 
 Week 9: 
